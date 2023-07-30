@@ -1,2 +1,2 @@
 # Feature-extraction-module-for-phishing-site-detection
-Aims to extract useful and important features from a given URL to check whether the website is phishing or legitimate.
+Phishing websites pose a significant threat to users and organizations, attempting to steal sensitive information through deceptive means. To counter this menace, we propose a Phishing Website Detection system. The Feature Extraction module is a fundamental component of this system, responsible for extracting relevant and discriminative features from websites, enabling accurate classification between legitimate and phishing websites.
